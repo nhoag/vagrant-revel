@@ -1,7 +1,7 @@
 vagrant-revel
 =============
 
-Revel on Vagrant
+[Revel](http://revel.github.io/index.html) on [Vagrant](https://www.vagrantup.com/)
 
 ### Usage
 
@@ -15,6 +15,6 @@ revel new myapp
 revel run myapp
 ```
 
-On the host machine, visit: http://localhost:9000
+On the host machine, visit: [http://localhost:9000](http://localhost:9000)
 
 Learn more about Revel: http://revel.github.io/tutorial/requestflow.html
