@@ -22,7 +22,7 @@ function aptify() {
 
 function build_go() {
   local DLLOC=/tmp
-  local VERSION=1.3.3
+  local VERSION=1.6.3
   local GOSRC='https://storage.googleapis.com/golang'
   local GOARCHIVE="go${VERSION}.${PLATFORM}-${ARCH_TYPE}.tar.gz"
   curl -s -o "${DLLOC}/${GOARCHIVE}" "${GOSRC}/${GOARCHIVE}"
